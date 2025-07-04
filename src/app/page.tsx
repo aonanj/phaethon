@@ -33,7 +33,7 @@ export default function Home() {
           <div className="bg-white rounded-lg p-8 text-center">
             <h1 className="text-3xl font-bold text-gray-900 mb-4">Phaethon LLC</h1>
             <p className="text-lg text-gray-700 mb-4 leading-relaxed">
-              Phaethon LLC is a privately held company formed in the State of Wyoming.
+              Phaethon Order LLC is a privately held company formed in the State of Wyoming.
             </p>
             <p className="text-lg text-gray-700 mb-6">
               For inquiries, please contact:{' '}
@@ -45,7 +45,7 @@ export default function Home() {
               </a>
             </p>
             <p className="text-sm text-gray-500 mt-8 border-t pt-4">
-              © 2025 Phaethon LLC. All rights reserved.
+              © 2025 Phaethon Order LLC. All rights reserved.
             </p>
           </div>
         </div>
