@@ -31,7 +31,7 @@ export default function Home() {
         {/* Information Box with gradient border */}
         <div className="relative p-1 rounded-xl bg-gradient-to-r from-gray-900 to-gray-400">
           <div className="bg-white rounded-lg p-8 text-center">
-            <h1 className="text-3xl font-bold text-gray-900 mb-4">Phaethon LLC</h1>
+            <h1 className="text-3xl font-bold text-gray-900 mb-4">Phaethon Order LLC</h1>
             <p className="text-lg text-gray-700 mb-4 leading-relaxed">
               Phaethon Order LLC is a privately held company formed in the State of Wyoming.
             </p>
