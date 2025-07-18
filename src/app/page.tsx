@@ -49,7 +49,7 @@ export default function Home() {
               </div>
               <h2 className="text-2xl font-semibold text-[#102A43] mb-3">Spurly</h2>
               <p className="text-lg text-[#102A43] mb-4 leading-relaxed">
-                Phaethon Order LLC is the sole owner and operator of Spurly, contextually aware AI messaging assistant.
+                Phaethon Order LLC is the sole owner and operator of Spurly, context-aware AI messaging assistant.
               </p>
               <div className="space-y-2">
                 <p className="text-lg text-[#102A43]">
