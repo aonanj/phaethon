@@ -35,19 +35,19 @@ export default function Home() {
             <p className="text-lg text-[#102A43] mb-6 leading-relaxed">
               Phaethon Order LLC is a US-based technology company specializing in the design and development of solutions tailored for the adaptation and deployment of frontier-level, general-purpose Foundation Models (FMs).
             </p>
-
-            <p className="text-lg text-[#102A43] mb-6 leading-relaxed">
-              To learn more about Phaethon Order LLC and the services and solutions provided, please visit: 
-            </p>
-            <div className="flex justify-center gap-4 mb-6">
-              <a 
-                href="https://www.phaethon.llc/about" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="inline-block bg-[#3A506B] hover:bg-[#9BC7FF] text-white font-medium py-2 px-6 rounded-lg transition-colors transform hover:scale-105"
-              >
-                About Us
-              </a>
+            <div className="border-t border-gray-200 pt-6 mb-6">
+              <p className="text-lg text-[#102A43] mb-6 leading-relaxed">
+                To learn more about Phaethon Order LLC and the services and solutions provided, please visit: 
+              </p>
+              <div className="flex justify-center gap-4 mb-6">
+                <a 
+                  href="https://www.phaethon.llc/about" 
+                  rel="noopener noreferrer"
+                  className="inline-block bg-[#3A506B] hover:bg-[#9BC7FF] text-white font-medium py-2 px-6 rounded-lg transition-colors transform hover:scale-105"
+                >
+                  About Us
+                </a>
+              </div>
             </div>
             {/* Spurly Section */}
             <div className="border-t border-gray-200 pt-6 mb-6">

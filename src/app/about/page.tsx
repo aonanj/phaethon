@@ -32,14 +32,14 @@ const About: FC = () => {
           </div>
 
           <div className="relative p-1 rounded-xl bg-gradient-to-r from-[#102A43] to-gray-400">
-            <div className="bg-white rounded-lg p-8 text-left">
+            <div className="bg-white rounded-lg p-8 text-center">
               <h1 className="text-3xl font-bold text-[#102A43] mb-4">About Phaethon Order LLC</h1>
-              <p className="text-lg text-[#102A43] leading-relaxed mb-6">
+              <p className="text-lg text-[#102A43] leading-relaxed mb-6 text-left">
                 Phaethon Order LLC is a US-based technology company specializing in the design and development of solutions tailored for the adaptation and deployment of frontier-level, general-purpose Foundation Models (FMs). We offer everything from full end-to-end systems to individual modular components that bridge high-capability AI with practical usability and focused optimization.
               </p>
 
-              <div className="space-y-6">
-                <h2 className="text-2xl font-semibold text-[#102A43]">Solutions and Services Built and Delivered:</h2>
+              <div className="border-t border-gray-200 pt-6 mt-6 space-y-6 text-center">
+                <h2 className="text-2xl font-semibold text-[#102A43]">Solutions and Services Built and Delivered</h2>
                 <ul className="list-disc pl-6 text-[#102A43] space-y-2">
                   <li>Agile, low-latency frontends for FM-powered workflows on mobile and web platforms</li>
                   <li>Scalable, platform-independent backends with FM-native API interfaces</li>
@@ -50,14 +50,14 @@ const About: FC = () => {
                   <li>Versioned RESTful and webhook-ready APIs with OpenAPI schemas</li>
                 </ul>
 
-                <p className="text-lg text-[#102A43]">
+                <p className="text-lg text-[#102A43] text-left leading-relaxed">
                   Our team is proficient in Python, TypeScript, Swift, Java, C/C++, Node.js, and JavaScript, with extensive experience in cloud-native architectures, container orchestration, and AI system design.
                 </p>
               </div>
 
-              <div className="border-t border-gray-200 pt-6 mt-6">
-                <h2 className="text-2xl font-semibold text-[#102A43] mb-3">Flexible Engagements</h2>
-                <p className="text-lg text-[#102A43] mb-4 leading-relaxed">
+              <div className="border-t border-gray-200 pt-6 mt-6 text-center">
+                <h2 className="text-2xl font-semibold text-[#102A43] mb-3">The Purpose of Phaethon Order</h2>
+                <p className="text-lg text-[#102A43] mb-4 text-left leading-relaxed">
                   From rapid prototyping to production deployment, Phaethon Order adapts to client needs through individualized project scopes and arrangements, including accompanying support and services, flexible IP agreements with different licensing and assignment options, and amenability to engagement revisions. We offer clean and comprehensive documentation for easy handoff, transparently iterative and collaborative development processes that promote client confidence, and post-project training and support for seamless integration and production-ready deployment.
                 </p>
                 <p className="text-lg text-[#102A43] leading-relaxed">
@@ -65,7 +65,7 @@ const About: FC = () => {
                 </p>
               </div>
 
-              <div className="border-t border-gray-200 pt-6 mt-6">
+              <div className="border-t border-gray-200 pt-6 mt-6 text-center">
                 <h3 className="text-xl font-semibold text-[#102A43] mb-4">Contact Us</h3>
                 <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
                   <p className="text-lg text-[#102A43]">
