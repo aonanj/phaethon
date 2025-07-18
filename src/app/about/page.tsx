@@ -42,7 +42,7 @@ const About: FC = () => {
                 </a>
               </h1>
               <p className="text-lg text-[#102A43] leading-relaxed mb-6 text-left">
-                Phaethon Order LLC is a US-based technology company specializing in the design and development of solutions tailored for the adaptation and deployment of frontier-level, general-purpose Foundation Models (FMs). We offer everything from full end-to-end systems to individual modular components that bridge high-capability AI with practical usability and focused optimization.
+                Phaethon Order LLC is a US-based technology company specializing in the design and development of solutions tailored for the adaptation and deployment of frontier-level, general-purpose Foundation Models (FMs), such as OpenAI GPT-4o, Anthropic Claude Sonnet, Google Gemini, xAI Grok, Meta Llama, and Amazon Titan. We offer everything from full end-to-end systems to individual modular components that bridge high-capability AI with practical usability and focused optimization.
               </p>
 
               <div className="border-t border-gray-200 pt-6 mt-6 space-y-6 text-center">
@@ -70,9 +70,9 @@ const About: FC = () => {
               <div className="border-t border-gray-200 pt-6 mt-6 text-center">
                 <h2 className="text-2xl font-semibold text-[#102A43] mb-3">The Purpose of Phaethon Order</h2>
                 <p className="text-lg text-[#102A43] mb-4 text-left leading-relaxed">
-                  Phaethon Order adapts frontier-level foundational models into practical and customizable tools. Our streamlined structure ensures fast delivery, low overhead, and clear communication so clients can react quickly and efficiently in competitive spaces. We believe innovation is driven by individual vision, and our solutions build on AI to help in specific ways that help you realize your individual vision. 
+                  Phaethon Order adapts frontier-level Foundation Models into practical and customizable tools. Our streamlined structure ensures fast delivery, low overhead, and clear communication so clients can react quickly and efficiently in competitive spaces. We believe innovation is driven by individual vision, and our solutions build on AI to help in specific ways that help you realize your individual vision. 
                 </p>
-                <p className="text-lg text-[#102A43] leading-relaxed">
+                <p className="text-lg text-[#102A43] mb-4 text-left leading-relaxed">
                    Beginning with a high-level system design phase that emphasizes modularity with high cohesion and loose coupling, Phaethon Order provides a transparent and collaborative dev cycle that allows for rapid responses to changes in project requirements. We offer clean and comprehensive documentation for easy handoff, iterative prototyping that promotes client confidence throughout, and deliverables with training and support for seamless integration and production-ready deployment. 
                 </p>
               </div>
@@ -102,14 +102,15 @@ const About: FC = () => {
                 </div>
               </div>
 
-              <p className="text-sm text-[#102A43] mt-8 border-t pt-4">
-                © 2025 {' '}. All rights reserved.
+              <p className="text-md text-[#102A43] mt-8 border-t pt-4">
+                © 2025 {' '}
                 <a 
                   href="https://www.phaethon.llc" 
                   className="text-[#3A506B] hover:text-[#9BC7FF] underline hover:no-underline transition-colors"
                 >
                   Phaethon Order LLC
                 </a>
+                . All rights reserved.
               </p>
             </div>
           </div>
