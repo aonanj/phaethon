@@ -1,0 +1,23 @@
+{
+  "name": "Phaethon Order LLC",
+  "short_name": "Phaethon Order",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EFF4F8",  
+  "theme_color": "#3A506B",       
+  "description": "Phaethon Order LLC provides end-to-end full-stack and modular solutions and services to adapt frontier-level Foundation Models (FMs) for accessible and specialized client use cases.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait",
+  "lang": "en"
+}

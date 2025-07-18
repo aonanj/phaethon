@@ -1,5 +1,11 @@
 User-agent: *
+Disallow: /api/
+Disallow: /admin/
+Disallow: /internal/
+Disallow: /drafts/
+Disallow: /private/
+Disallow: /404
 Allow: /
 
-# Sitemap
-Sitemap: https://phaethon.com/sitemap.xml
+Sitemap: https://phaethon.llc/sitemap.xml
+Host: https://phaethon.llc

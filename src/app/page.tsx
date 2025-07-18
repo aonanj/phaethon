@@ -33,9 +33,22 @@ export default function Home() {
           <div className="bg-white rounded-lg p-8 text-center">
             <h1 className="text-3xl font-bold text-[#102A43] mb-4">Phaethon Order LLC</h1>
             <p className="text-lg text-[#102A43] mb-6 leading-relaxed">
-              Phaethon Order LLC is a privately held company formed in the State of Wyoming.
+              Phaethon Order LLC is a US-based technology company specializing in the design and development of solutions tailored for the adaptation and deployment of frontier-level, general-purpose Foundation Models (FMs).
             </p>
 
+            <p className="text-lg text-[#102A43] mb-6 leading-relaxed">
+              To learn more about Phaethon Order LLC and the services and solutions provided, please visit: 
+            </p>
+            <div className="flex justify-center gap-4 mb-6">
+              <a 
+                href="https://www.phaethon.llc/about" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="inline-block bg-[#3A506B] hover:bg-[#9BC7FF] text-white font-medium py-2 px-6 rounded-lg transition-colors transform hover:scale-105"
+              >
+                About Us
+              </a>
+            </div>
             {/* Spurly Section */}
             <div className="border-t border-gray-200 pt-6 mb-6">
               <div className="flex justify-center mb-4">
@@ -49,7 +62,7 @@ export default function Home() {
               </div>
               <h2 className="text-2xl font-semibold text-[#102A43] mb-3">Spurly</h2>
               <p className="text-lg text-[#102A43] mb-4 leading-relaxed">
-                Phaethon Order LLC is the sole owner and operator of Spurly, context-aware AI messaging assistant.
+                Phaethon Order LLC is the sole owner and operator of Spurly, context-integrating AI messaging assistant.
               </p>
               <div className="space-y-2">
                 <p className="text-lg text-[#102A43]">
@@ -62,7 +75,7 @@ export default function Home() {
                     rel="noopener noreferrer"
                     className="inline-block bg-[#3A506B] hover:bg-[#9BC7FF] text-white font-medium py-2 px-6 rounded-lg transition-colors transform hover:scale-105"
                   >
-                    www.spurly.io
+                    Visit Spurly.io
                   </a>
                   <a 
                     href="mailto:support@spurly.io" 
@@ -70,7 +83,7 @@ export default function Home() {
                     rel="noopener noreferrer"
                     className="inline-block bg-[#3A506B] hover:bg-[#9BC7FF] text-white font-medium py-2 px-6 rounded-lg transition-colors transform hover:scale-105"
                   >
-                    support@spurly.io
+                    Contact Spurly Team
                   </a>
                 </div>
               </div>
