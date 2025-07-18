@@ -84,7 +84,7 @@ export default function Home() {
                   General inquiries:{' '}
                   <a 
                     href="mailto:phaethon@phaethon.llc" 
-                    className="text-[#3A506B] hover:text-[#9BC7FF] hover:no-underline transition-colors"
+                    className="text-[#3A506B] hover:text-[#9BC7FF] underline hover:no-underline transition-colors"
                   >
                     phaethon@phaethon.llc
                   </a>
@@ -94,7 +94,7 @@ export default function Home() {
                   Support:{' '}
                   <a 
                     href="mailto:support@phaethon.llc" 
-                    className="text-[#3A506B] hover:text-[#9BC7FF] hover:no-underline transition-colors"
+                    className="text-[#3A506B] hover:text-[#9BC7FF] underline hover:no-underline transition-colors"
                   >
                     support@phaethon.llc
                   </a>
