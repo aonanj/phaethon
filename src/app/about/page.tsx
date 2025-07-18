@@ -40,8 +40,8 @@ const About: FC = () => {
 
               <div className="border-t border-gray-200 pt-6 mt-6 space-y-6 text-center">
                 <h2 className="text-2xl font-semibold text-[#102A43]">Solutions and Services Built and Delivered</h2>
-                <ul className="list-disc pl-6 text-[#102A43] space-y-2">
-                  <li>Agile, low-latency frontends for FM-powered workflows on mobile and web platforms</li>
+                <ul className="list-disc pl-6 text-[#102A43] space-y-2 text-left">
+                  <li>Intuitive, discoverable UI/UX frontends for FM-powered workflows on mobile and web platforms</li>
                   <li>Scalable, platform-independent backends with FM-native API interfaces</li>
                   <li>Prompt engineering libraries for system and user prompt strategies</li>
                   <li>RAG pipeline design with document indexing and relevancy ranking</li>
@@ -51,17 +51,20 @@ const About: FC = () => {
                 </ul>
 
                 <p className="text-lg text-[#102A43] text-left leading-relaxed">
-                  Our team is proficient in Python, TypeScript, Swift, Java, C/C++, Node.js, and JavaScript, with extensive experience in cloud-native architectures, container orchestration, and AI system design.
+                  The Phaethon Order dev team has extensive experience building and deploying solutions using a wide range of software architecture patterns and programming paradigms, as well as cloud-native architectures, container orchestration, and AI frameworks and related tools. Examples of the programming languages we frequently use include Python, TypeScript, Swift, Java, C/C++, Node.js, and JavaScript, which are widely supported by or easily leveraged into custom solutions for frontier-level FMs and/or cloud platforms. Examples of the AI frameworks and tools we frequently use include OpenAI CLI, Jupyter Notebooks, Pandas, NumPy, and PyTorch. 
+                </p>
+                <p className="text-lg text-[#102A43] space-y-1 text-left leading-relaxed">
+                  The foregoing lists enumerate only a few areas of our dev team's expertise. Additionally, Phaethon Order encourages and incentivizes ongoing education for our dev team to ensure a constantly expanding knowledge base. For projects involving specific technologies, frameworks, tools, etc. not listed here, we encourage you to reach out to discuss how we can handle those.
                 </p>
               </div>
 
               <div className="border-t border-gray-200 pt-6 mt-6 text-center">
                 <h2 className="text-2xl font-semibold text-[#102A43] mb-3">The Purpose of Phaethon Order</h2>
                 <p className="text-lg text-[#102A43] mb-4 text-left leading-relaxed">
-                  From rapid prototyping to production deployment, Phaethon Order adapts to client needs through individualized project scopes and arrangements, including accompanying support and services, flexible IP agreements with different licensing and assignment options, and amenability to engagement revisions. We offer clean and comprehensive documentation for easy handoff, transparently iterative and collaborative development processes that promote client confidence, and post-project training and support for seamless integration and production-ready deployment.
+                  Phaethon Order adapts frontier-level foundational models into practical and customizable tools. Our streamlined structure ensures fast delivery, low overhead, and clear communication so clients can react quickly and efficiently in competitive spaces. We believe innovation is driven by individual vision, and our solutions build on AI to help in specific ways that help you realize your individual vision. 
                 </p>
                 <p className="text-lg text-[#102A43] leading-relaxed">
-                  Phaethon Order is organizationally structured to ensure low overhead, fast turnaround, and open client communication so that our clients can capitalize on the power and potential of modern AI.
+                   Beginning with a high-level system design phase that emphasizes modularity with high cohesion and loose coupling, Phaethon Order provides a transparent and collaborative dev cycle that allows for rapid responses to changes in project requirements. We offer clean and comprehensive documentation for easy handoff, iterative prototyping that promotes client confidence throughout, and deliverables with training and support for seamless integration and production-ready deployment. 
                 </p>
               </div>
 
