@@ -8,7 +8,7 @@ export default function Home() {
         <div className="flex justify-center transform transition-transform hover:scale-105">
           <Image
             src="/images/PhaethonLogo.png"
-            alt="Phaethon LLC Logo"
+            alt="Phaethon Order LLC Logo"
             width={300}
             height={150}
             className="w-auto h-auto max-w-full drop-shadow-lg"

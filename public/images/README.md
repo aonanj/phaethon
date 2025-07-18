@@ -1,4 +1,4 @@
-# Example images for your Phaethon LLC website
+# Example images for your Phaethon Order LLC website
 
 ## Logo Usage
 
@@ -6,11 +6,11 @@ The logo.svg file can be used in your components like this:
 
 ```jsx
 // Using regular img tag
-<img src="/images/logo.svg" alt="Phaethon LLC Logo" width={100} height={100} />
+<img src="/images/logo.svg" alt="Phaethon Order LLC Logo" width={100} height={100} />
 
 // Using Next.js Image component (recommended)
 import Image from 'next/image'
-<Image src="/images/logo.svg" alt="Phaethon LLC Logo" width={100} height={100} />
+<Image src="/images/logo.svg" alt="Phaethon Order LLC Logo" width={100} height={100} />
 ```
 
 ## Adding More Images

@@ -46,7 +46,7 @@ export const metadata: Metadata = {
         url: '/images/logo.svg',
         width: 100,
         height: 100,
-        alt: 'Phaethon LLC Logo',
+        alt: 'Phaethon Order LLC Logo',
       },
     ],
   },
@@ -55,6 +55,7 @@ export const metadata: Metadata = {
     title: 'Phaethon Order LLC',
     description: 'Foundation Model infrastructure and prompt systems, from concept to deployment.',
     images: ['/images/logo.svg'],
+    site: "@PhaethonOrder",
   },
 }
 
