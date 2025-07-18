@@ -62,7 +62,7 @@ export default function Home() {
               </div>
               <h2 className="text-2xl font-semibold text-[#102A43] mb-3">Spurly</h2>
               <p className="text-lg text-[#102A43] mb-4 leading-relaxed">
-                Phaethon Order LLC is the sole owner and operator of Spurly, context-integrating AI messaging assistant.
+                Phaethon Order LLC is the sole owner and operator of Spurly, a contextually informed AI chat assistant with direct linking to messaging apps. Spurly helps you find your own words, faster. 
               </p>
               <div className="space-y-2">
                 <p className="text-lg text-[#102A43]">
@@ -83,7 +83,7 @@ export default function Home() {
                     rel="noopener noreferrer"
                     className="inline-block bg-[#3A506B] hover:bg-[#9BC7FF] text-white font-medium py-2 px-6 rounded-lg transition-colors transform hover:scale-105"
                   >
-                    Contact Spurly Team
+                    Contact Spurly
                   </a>
                 </div>
               </div>
