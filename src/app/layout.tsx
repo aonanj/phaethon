@@ -74,8 +74,9 @@ export default function RootLayout({
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/site.webmanifest" />
         <meta name="theme-color" content="#3A506B" />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
       </head>
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>Verification: ec9bf379f8e26e64{children}</body>
     </html>
   )
 }
