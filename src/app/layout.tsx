@@ -76,7 +76,6 @@ export default function RootLayout({
         <meta name="theme-color" content="#3A506B" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
       </head>
-      <body className={inter.className}>Verification: ec9bf379f8e26e64{children}</body>
     </html>
   )
 }
