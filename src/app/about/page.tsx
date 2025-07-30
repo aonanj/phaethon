@@ -7,12 +7,12 @@ const About: FC = () => {
     <>
       <Head>
         <title>About Phaethon Order LLC | Foundation Model Development & AI Infrastructure Solutions</title>
-        <meta name="description" content="Phaethon Order LLC delivers full-stack solutions and services for integrating and deploying frontier-level Foundation Models (FMs), including prompt engineering, FM tuning, scalable backends, and intelligent UI/UX frontends." />
+        <meta name="description" content="Phaethon Order LLC delivers full-stack solutions and services for integrating and deploying frontier-level Foundation Models." />
         <meta name="keywords" content="Foundation Models, AI Development, Prompt Engineering, RAG Pipelines, LLM Integration, AI Infrastructure, Full-Stack AI, Firebase, Cloud Run, OpenAI, Backend Services, UI/UX Design, API Development" />
         <meta name="robots" content="index, follow" />
         <meta name="author" content="Phaethon Order LLC" />
         <meta property="og:title" content="About Phaethon Order LLC" />
-        <meta property="og:description" content="Learn about Phaethon Order LLC and its mission to make frontier-level Foundation Models accessible, adaptable, and production-ready through custom full-stack development and modular component design." />
+        <meta property="og:description" content="Phaethon Order LLC makes frontier-level Foundation Models accessible and adaptable through custom full-stack development and modular component design." />
         <meta property="og:image" content="/images/logo.svg" />
         <meta property="og:url" content="https://phaethon.llc/about" />
         <meta name="twitter:card" content="summary_large_image" />
@@ -42,7 +42,7 @@ const About: FC = () => {
                 </a>
               </h1>
               <p className="text-lg text-[#102A43] leading-relaxed mb-6 text-left">
-                Phaethon Order LLC is a US-based technology company specializing in the design and development of solutions tailored for the adaptation and deployment of frontier-level, general-purpose Foundation Models (FMs), such as OpenAI GPT-4o, Anthropic Claude Sonnet, Google Gemini, xAI Grok, Meta Llama, and Amazon Titan. We offer everything from full end-to-end systems to individual modular components that bridge high-capability AI with practical usability and focused optimization.
+                Phaethon Order LLC is a US-based technology company specializing in the design and development of solutions tailored for the adaptation and deployment of frontier-level, general-purpose Foundation Models (FMs), such as OpenAI GPT, Anthropic Claude, Google Gemini, xAI Grok, Meta Llama, Amazon Titan, etc. We offer everything from full end-to-end systems to individual modular components that bridge high-capability AI with practical usability and focused optimization.
               </p>
 
               <div className="border-t border-gray-200 pt-6 mt-6 space-y-6 text-center">

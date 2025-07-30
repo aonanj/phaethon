@@ -53,7 +53,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Phaethon Order LLC',
-    description: 'Foundation Model infrastructure and prompt systems, from concept to deployment.',
+    description: 'Phaethon Order LLC makes frontier-level Foundation Models accessible and adaptable through custom full-stack development and modular component design.',
     images: ['/images/logo.svg'],
     site: "@PhaethonOrder",
   },
