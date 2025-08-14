@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     description: 'Phaethon Order LLC makes frontier-level Foundation Models accessible and adaptable through custom full-stack development and modular component design.',
     images: ['/images/logo.svg'],
     site: "@PhaethonOrder",
-  },
+  }
 }
 
 export default function RootLayout({
@@ -74,7 +74,8 @@ export default function RootLayout({
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/site.webmanifest" />
         <meta name="theme-color" content="#3A506B" />
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="yandex-verification" content="ec9bf379f8e26e64" />
       </head>
       <body className={inter.className}>
         {children}
